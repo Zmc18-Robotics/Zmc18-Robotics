@@ -1,5 +1,5 @@
 # Hi there 👋
-Its me Zidane, I am a Robotics Engineer and AIoT Programmer
+Its me Zidane, I am a Robotics AIoT Engineer
 
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
