@@ -3,8 +3,8 @@ Its me Zidane, I am a Robotics Engineer and AIoT Programmer
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello Robo-Makers!, I'm Zidane, an Indonesian Robotics AIoT Engineer 👋🏼:
+🛜 My website [webpage](https://zmc18-robotics.github.io/MyWebsiteZmc18ShopIDN/)<br>👨🏼‍🎓 I study at University of Singaperbangsa Karawang - Indonesia<br>👨🏼‍💻 working as a Robotics AioT Engineer <br>🎬 My Youtube Channel <i>Zmc18_Roboticz</i>
 
 
 # 💻 Tech Stack:
