@@ -1,6 +1,3 @@
-# Hi there 👋
-Its me Zidane, I am a Robotics AIoT Engineer
-
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello Robo-Makers!, I'm Zidane, an Indonesian Robotics AIoT Engineer 👋🏼:
