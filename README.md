@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+Its me Zidane, I am a Robotics Engineer and AIoT Programmer
+
+#Social
 
 <!--
 **Zmc18-Robotics/Zmc18-Robotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
