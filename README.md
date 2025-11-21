@@ -177,9 +177,9 @@
 # Visitor and Forks
 
 | Statistik | Jumlah |
-|----------|--------|
-| 👀 **Total Profile Views** | <img src="https://komarev.com/ghpvc/?username=Zmc18-Robotics&label=Profile%20Views&color=blue&style=flat-square" /> |
-| 🌿 **Total Repo Forks (Repos Di-branch oleh Orang Lain)** | <img src="https://img.shields.io/github/forks/<owner>/<repo>?style=flat-square&label=Forks" /> |
+|---|---|
+| 👀 Total Profile Views | <img src="https://komarev.com/ghpvc/?username=Zmc18-Robotics&label=Profile%20Views&color=blue&style=flat-square" /> |
+| 🌿 Total Forks di Semua Repo | **123** |
 
 ---
 # 🤖 About Me
