@@ -1,7 +1,12 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello Robo-Makers!, I'm Zidane, an Indonesian Robotics AIoT Engineer 👋🏼:
-🛜 My website [webpage](https://zmc18-robotics.github.io/MyWebsiteZmc18ShopIDN/)<br>👨🏼‍🎓 I study at University of Singaperbangsa Karawang - Indonesia<br>👨🏼‍💻 working as a Robotics AIoT Engineer <br>🎬 My Youtube Channel <i>Zmc18_Roboticz</i> <br>📸 My Instagram <i>@mc.zminecrafter_18</i> 
+🛜 My website [webpage](https://zmc18-robotics.github.io/MyWebsiteZmc18ShopIDN/)<br>
+👨🏼‍🎓 I study at University of Singaperbangsa Karawang - Indonesia<br>
+👨🏼‍💻 Working as a Robotics AIoT Engineer <br>
+🎬 My Youtube Channel: <a href="https://www.youtube.com/@Zmc18_Roboticz" target="_blank"><i>Zmc18_Roboticz</i></a> <br>
+📸 My Instagram: <a href="https://www.instagram.com/mc.zminecrafter_18" target="_blank"><i>@mc.zminecrafter_18</i></a>
+
 
 
 # 💻 Tech Stack :
