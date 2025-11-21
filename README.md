@@ -121,11 +121,11 @@
 
 ---
 
-### 🧩 GitHub Summary (Tanpa Huruf / Grade)
+### 🧩 GitHub Summary
 
 | Statistik | Jumlah |
 |----------|--------|
-| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=flat-square) |
+| ⭐ **Total Stars** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20Stars" height="120" /> |
 | 🔨 **Total Commits (All Time)** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&hide_rank=true&custom_title=Total%20Commits" height="120" /> |
 | 🔧 **Total Pull Requests** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,issues,commits,contribs&hide_rank=true&custom_title=Total%20PRs" height="120" /> |
 | 🐞 **Total Issues** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,contribs&hide_rank=true&custom_title=Total%20Issues" height="120" /> |
