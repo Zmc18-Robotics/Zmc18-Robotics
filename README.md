@@ -127,8 +127,8 @@
 
 | Statistik | Jumlah |
 |----------|--------|
-| ⭐ Total Stars | ![Stars](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs,issues,contribs&custom_title=Stars&include_all_commits=true) |
-| 🔨 Total Commits | ![Commits](https://badges.pufler.dev/commits/yearly/USERNAME) |
+| ⭐ Total Stars | ![Stars](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&count_private=true&hide=prs,issues,contribs&custom_title=Stars&include_all_commits=true) |
+| 🔨 Total Commits | ![Commits](https://badges.pufler.dev/commits/yearly/Zmc18-Robotics) |
 | 🔧 Total PRs | ![PRs](https://badges.pufler.dev/pulls/USERNAME) |
 | 🐞 Total Issues | ![Issues](https://badges.pufler.dev/issues/USERNAME) |
 | 🤝 Repos Contributed | ![Contrib](https://badges.pufler.dev/contributions/USERNAME) |
