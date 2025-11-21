@@ -25,7 +25,7 @@
 ## 🔧 Skill & Technique
 ![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
-![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-F39C12?style=for-the-badge&logo=electron&logoColor=white)
+![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit_Design-4B0082?style=for-the-badge&logo=proteus&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A3D62?style=for-the-badge&logo=arm&logoColor=white)
