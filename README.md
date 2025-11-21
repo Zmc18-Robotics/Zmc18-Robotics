@@ -22,6 +22,30 @@
 
 ---
 
+## 🔧 Skill & Technique
+![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game_Development-111111?style=for-the-badge&logo=unity&logoColor=white)
+![App Development](https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
+![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=gear&logoColor=white)
+![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4C4C4C?style=for-the-badge&logo=codefactor&logoColor=white)
+![3D Artist](https://img.shields.io/badge/3D_Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-FF6F61?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Physics](https://img.shields.io/badge/Physics-0A3D62?style=for-the-badge&logo=atom&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-FFB300?style=for-the-badge&logo=electron&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A3D62?style=for-the-badge&logo=arduino&logoColor=white)
+![AI Development](https://img.shields.io/badge/AI_Development-000000?style=for-the-badge&logo=ai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-1E8449?style=for-the-badge&logo=autodesk&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-2E86C1?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Cloud Integration](https://img.shields.io/badge/Cloud_Integration-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
 ## 🧠 AI, Data, & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -33,6 +57,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Physics](https://img.shields.io/badge/Physics-222222?style=for-the-badge&logo=atom&logoColor=white)
 
 ---
 
@@ -44,12 +69,14 @@
 ![ESP8266](https://img.shields.io/badge/ESP8266-323232?style=for-the-badge&logo=esphome&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-5C8D41?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-1F8A70?style=for-the-badge&logo=autodesk&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Electronics](https://img.shields.io/badge/Electronics-FFB300?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
@@ -71,6 +98,7 @@
 ![Windsurf](https://img.shields.io/badge/Windsurf-1E88E5?style=for-the-badge&logo=windicss&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Qodo](https://img.shields.io/badge/Qodo-5A45FF?style=for-the-badge&logo=qodotext&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
