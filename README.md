@@ -30,7 +30,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
-![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=gear&logoColor=white)
+![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4C4C4C?style=for-the-badge&logo=codefactor&logoColor=white)
 ![3D Artist](https://img.shields.io/badge/3D_Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -41,7 +41,7 @@
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A3D62?style=for-the-badge&logo=arduino&logoColor=white)
 ![AI Development](https://img.shields.io/badge/AI_Development-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-1E8449?style=for-the-badge&logo=autodesk&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-2E86C1?style=for-the-badge&logo=circuitverse&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-2E86C1?style=for-the-badge&logo=circuit-board&logoColor=white)
 ![Cloud Integration](https://img.shields.io/badge/Cloud_Integration-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
