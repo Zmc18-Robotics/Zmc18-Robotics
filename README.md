@@ -33,7 +33,7 @@
 ![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4C4C4C?style=for-the-badge&logo=codefactor&logoColor=white)
-![3D Artist](https://img.shields.io/badge/3D_Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3D Artist](https://img.shields.io/badge/3D%20Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
 ![Animation](https://img.shields.io/badge/Animation-FF6F61?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-0A3D62?style=for-the-badge&logo=atom&logoColor=white)
