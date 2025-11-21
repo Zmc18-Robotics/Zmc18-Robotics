@@ -17,6 +17,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1F6FEB?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -29,20 +31,22 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## 🤖 Embedded Systems & Robotics
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=esphome&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-323232?style=for-the-badge&logo=esphome&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-1F8A70?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
@@ -53,6 +57,8 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-BB0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -62,6 +68,10 @@
 ![Windsurf](https://img.shields.io/badge/Windsurf-1E88E5?style=for-the-badge&logo=windicss&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Qodo](https://img.shields.io/badge/Qodo-5A45FF?style=for-the-badge&logo=qodotext&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
@@ -71,12 +81,14 @@
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A?style=for-the-badge&logo=autodesk&logoColor=black)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-EDB220?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit_Design-4CAF50?style=for-the-badge&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
 ## 🎨 Creative & Art
 ![3D Artist](https://img.shields.io/badge/3D%20Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-FF1493?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
 
