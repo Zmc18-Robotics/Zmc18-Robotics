@@ -116,6 +116,8 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-EDB220?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit_Design-4CAF50?style=for-the-badge&logoColor=white)
 ![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-00E676?style=for-the-badge&logo=wokwi&logoColor=white)
+![Crumb Circuit Simulator](https://img.shields.io/badge/Crumb_Circuit_Simulator-5C6BC0?style=for-the-badge&logoColor=white)
 
 ---
 
