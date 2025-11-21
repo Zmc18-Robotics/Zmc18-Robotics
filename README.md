@@ -121,53 +121,86 @@
 
 ---
 
-# GITHUB STATS
-
-### 🧩 GitHub Summary
+# 🧩 GitHub Summary (Auto Updated)
 
 | Statistik | Jumlah |
 |----------|--------|
-| ⭐ Total Stars | ![Stars](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&count_private=true&hide=prs,issues,contribs&custom_title=Stars&include_all_commits=true) |
-| 🔨 Total Commits | ![Commits](https://badges.pufler.dev/commits/yearly/Zmc18-Robotics) |
-| 🔧 Total PRs | ![PRs](https://badges.pufler.dev/pulls/USERNAME) |
-| 🐞 Total Issues | ![Issues](https://badges.pufler.dev/issues/USERNAME) |
-| 🤝 Repos Contributed | ![Contrib](https://badges.pufler.dev/contributions/USERNAME) |
+| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=for-the-badge) |
+| 🔨 **Total Commits (This Year)** | ![Commits](https://badges.pufler.dev/commits/yearly/Zmc18-Robotics) |
+| 🔧 **Total Pull Requests** | ![PRs](https://badges.pufler.dev/pulls/Zmc18-Robotics) |
+| 🐞 **Total Issues** | ![Issues](https://badges.pufler.dev/issues/Zmc18-Robotics) |
+| 🤝 **Repos Contributed To** | ![Contrib](https://badges.pufler.dev/contributions/Zmc18-Robotics) |
 
 ---
 
-### 🔥 Contribution Streak
+# 🔥 Contribution Streak (Auto Updated)
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zmc18-Robotics&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
 
 ---
 
-### 📅 Contribution Details
+# 📅 Detailed Contributions Table (Auto)
 
 | Kategori | Data |
 |----------|------|
-| Total Contributions | ![ContribTotal](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Contributions) |
-| Current Streak | ![CurrentStreak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true) |
-| Streak Card Lengkap | Lihat card di atas 👆 |
+| **Total Contributions (All-Time)** | ![Total](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Contributions) |
+| **Current Streak** | Lihat streak card di atas |
+| **Longest Streak** | Lihat streak card (otomatis tampil) |
+| **Rentang Waktu Longest Streak** | Tampil otomatis di streak card |
 
 ---
 
-### 📚 Most Used Languages
+# 📚 Most Used Languages (Auto)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 💬 Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmc18-Robotics&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🏆 Top Contributed Repositories
+# 📈 GitHub Stats (Auto)
 
-![TopRepo](https://github-contributor-stats.vercel.app/api?username=USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+# 🏆 Top Contributed Repositories (Auto)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Zmc18-Robotics&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🤖 About Me
+- 🔧 Robotics Builder — Arduino, ESP32, Sensors, Motors  
+- 🤖 AI & Embedded Integration  
+- 🌐 IoT System Developer  
+- 🧠 Loves automation, robot control, and R&D  
+- 💻 Mostly coding in **Python, C++, MicroPython**  
+- 🚀 Building smart robots & AI-assisted mechatronics  
+
+---
+
+# 📩 Contact & Socials
+- 🌐 GitHub: **Zmc18-Robotics**
+- 💼 More links coming soon...
+
+---
+
+<h3 align="center">🔥 Generated Automatically — Always Updated</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
