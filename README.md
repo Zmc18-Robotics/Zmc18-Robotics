@@ -27,7 +27,7 @@
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
 ![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=chip&logoColor=white)
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-1F618D?style=for-the-badge&logo=circuit-board&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-C72C48?style=for-the-badge&logo=autodeskeagle&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A3D62?style=for-the-badge&logo=arm&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-111111?style=for-the-badge&logo=unity&logoColor=white)
 ![App Development](https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
