@@ -121,18 +121,15 @@
 
 ---
 
-### 🧩 GitHub Summary (Auto Updated — No Grades)
+### 🧩 GitHub Summary (Tanpa Huruf / Grade)
 
 | Statistik | Jumlah |
 |----------|--------|
-| ⭐ **Total Stars** | <img src="https://img.shields.io/github/stars/Zmc18-Robotics?style=flat-square" /> |
-| 🔨 **Total Commits (All Time)** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&custom_title=Total%20Commits" height="120" /> |
-| 🔧 **Total Pull Requests** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,issues,commits,contribs&custom_title=Total%20PRs" height="120" /> |
-| 🐞 **Total Issues** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,contribs&custom_title=Total%20Issues" height="120" /> |
-| 🤝 **Repos Contributed To** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,issues&custom_title=Contributed%20Repos" height="120" /> |
-
-
-
+| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=flat-square) |
+| 🔨 **Total Commits (All Time)** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&hide_rank=true&custom_title=Total%20Commits" height="120" /> |
+| 🔧 **Total Pull Requests** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,issues,commits,contribs&hide_rank=true&custom_title=Total%20PRs" height="120" /> |
+| 🐞 **Total Issues** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,contribs&hide_rank=true&custom_title=Total%20Issues" height="120" /> |
+| 🤝 **Repos Contributed To** | <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,issues&hide_rank=true&custom_title=Contributed%20Repos" height="120" /> |
 
 ---
 
