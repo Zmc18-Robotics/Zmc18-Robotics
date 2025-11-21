@@ -83,7 +83,7 @@
 ---
 
 ## 🌐 IoT, Networking, & Cloud
-![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=netlify&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-121013?style=for-the-badge&logo=httpie&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
