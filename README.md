@@ -24,14 +24,14 @@
 
 ## 🔧 Skill & Technique
 ![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
+![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-111111?style=for-the-badge&logo=unity&logoColor=white)
 ![App Development](https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
-![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4C4C4C?style=for-the-badge&logo=codefactor&logoColor=white)
 ![3D Artist](https://img.shields.io/badge/3D%20Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
