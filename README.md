@@ -143,12 +143,12 @@
 
 # 📅 Detailed Contributions Table 
 
-| Kategori | Data |
-|----------|------|
+|  |  |
+|---|---|
 | **Total Contributions (All-Time)** | ![Total](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Contributions) |
-| **Current Streak** | Lihat streak card di atas |
-| **Longest Streak** | Lihat streak card (otomatis tampil) |
-| **Rentang Waktu Longest Streak** | Tampil otomatis di streak card |
+| **Current Streak** | Streak card di atas |
+| **Longest Streak** | Tampil otomatis |
+| **Rentang Waktu Longest Streak** | Tampil otomatis |
 
 ---
 
