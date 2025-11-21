@@ -9,12 +9,14 @@
 ---
 
 ## 🧑‍💻 Programming Languages
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1F6FEB?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -31,13 +33,13 @@
 ---
 
 ## 🤖 Embedded Systems & Robotics
-![Arduino IDE](https://img.shields.io/badge/arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/platformio-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=esphome&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-323232?style=for-the-badge&logo=esphome&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
@@ -54,18 +56,18 @@
 
 ---
 
-## 🛠 Development Tools
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠 Development Tools & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-1E88E5?style=for-the-badge&logo=windicss&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Qodo](https://img.shields.io/badge/Qodo-5A45FF?style=for-the-badge&logo=qodotext&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
 ## 🧩 Hardware Design & Simulation
-![Fritzing](https://img.shields.io/badge/fritzing-E3000B?style=for-the-badge&logo=fritzing&logoColor=white)
-![KiCad](https://img.shields.io/badge/kicad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-E3000B?style=for-the-badge&logo=fritzing&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A?style=for-the-badge&logo=autodesk&logoColor=black)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-EDB220?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit_Design-4CAF50?style=for-the-badge&logoColor=white)
