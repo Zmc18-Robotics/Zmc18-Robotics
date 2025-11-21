@@ -121,19 +121,20 @@
 
 ---
 
-# 🧩 GitHub Summary (Auto Updated)
+### 🧩 GitHub Summary
 
 | Statistik | Jumlah |
 |----------|--------|
-| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=for-the-badge) |
-| 🔨 **Total Commits (This Year)** | ![Commits](https://badges.pufler.dev/commits/yearly/Zmc18-Robotics) |
-| 🔧 **Total Pull Requests** | ![PRs](https://badges.pufler.dev/pulls/Zmc18-Robotics) |
-| 🐞 **Total Issues** | ![Issues](https://badges.pufler.dev/issues/Zmc18-Robotics) |
-| 🤝 **Repos Contributed To** | ![Contrib](https://badges.pufler.dev/contributions/Zmc18-Robotics) |
+| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=flat-square) |
+| 🔨 **Total Commits (All-Time)** | ![Commits](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Commits) |
+| 🔧 **Total Pull Requests** | ![PRs](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=PRs&hide=stars,commits,issues,contribs) |
+| 🐞 **Total Issues** | ![Issues](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=Issues&hide=stars,commits,prs,contribs) |
+| 🤝 **Repos Contributed To** | ![Contrib](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=Contributed&hide=stars,commits,prs,issues) |
+
 
 ---
 
-# 🔥 Contribution Streak (Auto Updated)
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zmc18-Robotics&theme=tokyonight&hide_border=true" alt="Streak"/>
@@ -141,7 +142,7 @@
 
 ---
 
-# 📅 Detailed Contributions Table (Auto)
+# 📅 Detailed Contributions Table 
 
 | Kategori | Data |
 |----------|------|
@@ -152,7 +153,7 @@
 
 ---
 
-# 📚 Most Used Languages (Auto)
+# 📚 Most Used Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmc18-Robotics&layout=compact&theme=tokyonight&hide_border=true" />
@@ -160,7 +161,7 @@
 
 ---
 
-# 📈 GitHub Stats (Auto)
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -168,7 +169,7 @@
 
 ---
 
-# 🏆 Top Contributed Repositories (Auto)
+# 🏆 Top Contributed Repositories 
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Zmc18-Robotics&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
