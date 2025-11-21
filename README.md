@@ -126,10 +126,11 @@
 | Statistik | Jumlah |
 |----------|--------|
 | ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/Zmc18-Robotics?style=flat-square) |
-| 🔨 **Total Commits (All-Time)** | ![Commits](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Commits) |
-| 🔧 **Total Pull Requests** | ![PRs](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=PRs&hide=stars,commits,issues,contribs) |
-| 🐞 **Total Issues** | ![Issues](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=Issues&hide=stars,commits,prs,contribs) |
-| 🤝 **Repos Contributed To** | ![Contrib](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&include_all_commits=true&custom_title=Contributed&hide=stars,commits,prs,issues) |
+| 🔨 **Total Commits (All Time)** | ![Commits](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&custom_title=Total%20Commits) |
+| 🔧 **Total Pull Requests** | ![PR](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,issues,commits,contribs&custom_title=Total%20PRs) |
+| 🐞 **Total Issues** | ![Issues](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,contribs&custom_title=Total%20Issues) |
+| 🤝 **Repos Contributed To** | ![Contrib](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&count_private=true&hide=stars,commits,prs,issues&custom_title=Contributed%20Repos) |
+
 
 
 ---
