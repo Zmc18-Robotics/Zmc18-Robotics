@@ -29,7 +29,7 @@
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit_Design-4B0082?style=for-the-badge&logo=proteus&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A3D62?style=for-the-badge&logo=arm&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=internetofthings&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=wifi&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game_Development-111111?style=for-the-badge&logo=unity&logoColor=white)
 ![App Development](https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)
