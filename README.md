@@ -73,7 +73,7 @@
 ---
 
 ## 🎨 Creative & Art
-![3D Artist](https://img.shields.io/badge/3D_Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3D Artist](https://img.shields.io/badge/3D%20Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
 
 
