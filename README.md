@@ -125,14 +125,49 @@
 
 ### 🧩 GitHub Summary
 
-| Statistik               | Jumlah |
-|------------------------|--------|
-| ⭐ **Total Stars Earned** | xxxx   |
-| 🔨 **Total Commits**      | xxxx   |
-| 🔧 **Total Pull Requests**| xxxx   |
-| 🐞 **Total Issues**        | xxxx   |
-| 🤝 **Repositories Contributed To** | xxxx |
+| Statistik | Jumlah |
+|----------|--------|
+| ⭐ Total Stars | ![Stars](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs,issues,contribs&custom_title=Stars&include_all_commits=true) |
+| 🔨 Total Commits | ![Commits](https://badges.pufler.dev/commits/yearly/USERNAME) |
+| 🔧 Total PRs | ![PRs](https://badges.pufler.dev/pulls/USERNAME) |
+| 🐞 Total Issues | ![Issues](https://badges.pufler.dev/issues/USERNAME) |
+| 🤝 Repos Contributed | ![Contrib](https://badges.pufler.dev/contributions/USERNAME) |
 
+---
+
+### 🔥 Contribution Streak
+
+![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+### 📅 Contribution Details
+
+| Kategori | Data |
+|----------|------|
+| Total Contributions | ![ContribTotal](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Contributions) |
+| Current Streak | ![CurrentStreak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true) |
+| Streak Card Lengkap | Lihat card di atas 👆 |
+
+---
+
+### 📚 Most Used Languages
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 💬 Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🏆 Top Contributed Repositories
+
+![TopRepo](https://github-contributor-stats.vercel.app/api?username=USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
