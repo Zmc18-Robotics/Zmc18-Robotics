@@ -23,7 +23,7 @@
 ---
 
 ## 🔧 Skill & Technique
-![Informatics Engineering](https://img.shields.io/badge/Informatics_Engineering-0D1117?style=for-the-badge&logo=terminal&logoColor=white)
+![Informatics Engineering](https://img.shields.io/badge/Informatics_Engineering-005CFF?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
 ![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-00B0D8?style=for-the-badge&logo=probot&logoColor=white)
 ![Robotics Engineering](https://img.shields.io/badge/Robotics_Engineering-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
