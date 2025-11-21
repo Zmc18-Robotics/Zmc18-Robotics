@@ -141,17 +141,6 @@
 
 ---
 
-# 📅 Detailed Contributions Table 
-
-|  |  |
-|---|---|
-| **Total Contributions (All-Time)** | ![Total](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Contributions) |
-| **Current Streak** | Streak card di atas |
-| **Longest Streak** | Tampil otomatis |
-| **Rentang Waktu Longest Streak** | Tampil otomatis |
-
----
-
 # 📚 Most Used Languages 
 
 <p align="center">
@@ -179,8 +168,9 @@
 # 💬 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <strong>"Robotics is not magic — it's persistence, curiosity, and thousands of tiny improvements. ~ Zmc18 ( me )"</strong>
 </p>
+
 
 ---
 
