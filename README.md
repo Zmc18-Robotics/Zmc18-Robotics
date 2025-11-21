@@ -121,6 +121,19 @@
 
 ---
 
+# GITHUB STATS
+
+### 🧩 GitHub Summary
+
+| Statistik               | Jumlah |
+|------------------------|--------|
+| ⭐ **Total Stars Earned** | xxxx   |
+| 🔨 **Total Commits**      | xxxx   |
+| 🔧 **Total Pull Requests**| xxxx   |
+| 🐞 **Total Issues**        | xxxx   |
+| 🤝 **Repositories Contributed To** | xxxx |
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
