@@ -78,7 +78,7 @@
 ![3D Artist](https://img.shields.io/badge/3D%20Artist-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![2D Artist](https://img.shields.io/badge/2D_Artist-203759?style=for-the-badge&logo=krita&logoColor=white)
 
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
