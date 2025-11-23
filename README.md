@@ -142,10 +142,7 @@
 
 # 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zmc18-Robotics&theme=tokyonight&hide_border=true" />
-</p>
-
+![](https://nirzak-streak-stats.vercel.app/?user=Zmc18-Robotics&theme=dark&hide_border=false)<br/>
 
 ---
 
