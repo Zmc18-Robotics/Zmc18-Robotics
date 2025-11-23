@@ -143,7 +143,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zmc18-Robotics&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zmc18-Robotics&theme=tokyonight&hide_border=true" />
 </p>
 
 
