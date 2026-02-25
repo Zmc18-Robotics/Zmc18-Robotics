@@ -84,8 +84,8 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Electronics](https://img.shields.io/badge/Electronics-FFB300?style=for-the-badge&logo=electron&logoColor=white)
-![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-PLC%20Simulation-blue?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-green?style=for-the-badge)
+![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-PLC%20Automation-ff6b00?style=for-the-badge&logo=siemens&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-2ecc71?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
@@ -120,8 +120,8 @@
 ![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-00E676?style=for-the-badge&logo=wokwi&logoColor=white)
 ![Crumb Circuit Simulator](https://img.shields.io/badge/Crumb_Circuit_Simulator-5C6BC0?style=for-the-badge&logoColor=white)
-![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-PLC%20Simulation-blue?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-green?style=for-the-badge)
+![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-PLC%20Automation-ff6b00?style=for-the-badge&logo=siemens&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-2ecc71?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
 
