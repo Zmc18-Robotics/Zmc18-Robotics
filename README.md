@@ -86,6 +86,7 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Electronics](https://img.shields.io/badge/Electronics-FFB300?style=for-the-badge&logo=electron&logoColor=white)
+![Crumb Circuit Simulator](https://img.shields.io/badge/Crumb_Circuit_Simulator-5C6BC0?style=for-the-badge&logoColor=white)
 ![Factory I/O](https://img.shields.io/badge/Factory_I/O-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-D32F2F?style=for-the-badge&logo=electron&logoColor=white)
 
