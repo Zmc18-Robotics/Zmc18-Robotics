@@ -136,13 +136,13 @@
 
 # 🔥 Contribution Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=Zmc18-Robotics&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmc18-Robotics&layout=compact&theme=tokyonight)
 
 ---
 
 # 📚 Most Used Languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zmc18-Robotics&show_icons=true&theme=tokyonight)
 
 ---
 
