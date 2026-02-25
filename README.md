@@ -77,6 +77,8 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-5C8D41?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![IPC](https://img.shields.io/badge/IPC-37474F?style=for-the-badge&logo=windows&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-1B1464?style=for-the-badge&logo=robotframework&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=for-the-badge&logo=electron&logoColor=white)
