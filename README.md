@@ -179,9 +179,10 @@
 
 ---
 # 🤖 About Me
-- 🔧 Robotics Builder — Arduino, ESP32, Sensors, Motors  
+- 🔧 Robotics Builder — Arduino, ESP32, IPC, PLC, Sensors, Motors  
 - 🤖 AI & Embedded Integration  
-- 🌐 IoT System Developer  
+- 🌐 IoT System Developer & Engineer
+- 🛠️ Electronics & PCB
 - 🧠 Loves automation, robot control, and R&D  
 - 💻 Mostly coding in **Python, C++, MicroPython**  
 - 🚀 Building smart robots & AI-assisted mechatronics  
