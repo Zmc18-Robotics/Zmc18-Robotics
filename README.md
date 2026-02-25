@@ -142,9 +142,7 @@
 
 # 📚 Most Used Languages 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmc18-Robotics&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact)
 
 ---
 
