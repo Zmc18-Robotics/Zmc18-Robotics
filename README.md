@@ -2,7 +2,7 @@
 
 
 
-# Hello Robo-Makers!, I'm Zidane, an Indonesian Robotics AIoT & Electrical Engineer 👋🏼:
+# Hello Robo-Makers!, I'm Zidane, an Indonesian Robotics AIoRT & Electrical Engineer 👋🏼:
 🛜 My website [webpage](https://zmc18-robotics.github.io/MyWebsiteZmc18ShopIDN/)<br>
 👨🏼‍🎓 I study at University of Singaperbangsa Karawang - Indonesia<br>
 👨🏼‍💻 Working as a Robotics AIoT Engineer <br>
