@@ -117,7 +117,7 @@
 ![Qodo](https://img.shields.io/badge/Qodo-5A45FF?style=for-the-badge&logo=qodotext&logoColor=white)
 ![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-5B5BD6?style=for-the-badge)
-![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
