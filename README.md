@@ -68,6 +68,8 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-222222?style=for-the-badge&logo=atom&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLO-v11-8A2BE2?style=for-the-badge)
 
 ---
 
