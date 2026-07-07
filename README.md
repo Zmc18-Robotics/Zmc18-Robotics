@@ -116,6 +116,8 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Qodo](https://img.shields.io/badge/Qodo-5A45FF?style=for-the-badge&logo=qodotext&logoColor=white)
 ![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=ai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-5B5BD6?style=for-the-badge)
+![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge)
 
 ---
 
