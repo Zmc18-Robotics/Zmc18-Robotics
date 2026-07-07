@@ -70,6 +70,7 @@
 ![Physics](https://img.shields.io/badge/Physics-222222?style=for-the-badge&logo=atom&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11-8A2BE2?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -106,6 +107,7 @@
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-BB0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
 
 ---
 
