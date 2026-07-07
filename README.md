@@ -26,6 +26,8 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-1F6FEB?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
